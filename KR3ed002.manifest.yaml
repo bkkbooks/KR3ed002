@@ -1,0 +1,864 @@
+canonical_identifier: bkk:krp/KR3ed002/v1
+canonical_location: https://kanripo.org/bkk/KR3ed002/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 肘後備急方
+  identifiers:
+    krp: KR3ed002
+  tags:
+    kr-categories: KR3ed
+    tls-dates: dat04580
+    tls-internal: tr-en
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ed002.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ed002_000.yaml, hash: 'sha256:55769b9572bbea39e54c2605ffa39cec24026585408c94df9c881112033d0862'}
+  - {seq: 1, filename: KR3ed002_001.yaml, hash: 'sha256:841e8574d1678a2131a7351f91ff39d83e04d46e05750124f805eb2892f02300'}
+  - {seq: 2, filename: KR3ed002_002.yaml, hash: 'sha256:469d76e2b3caf97df3cbb128d0a4e3722f78dc13b67383639c2da21a7738341d'}
+  - {seq: 3, filename: KR3ed002_003.yaml, hash: 'sha256:f8ae8f41b2d3f5b676edfa33ff772ada7150fbb182aa67e6e576aa6a013971b8'}
+  - {seq: 4, filename: KR3ed002_004.yaml, hash: 'sha256:1bf1e60a6fa7f364e0f117715da593834747f175d44eb610e5ad35f42d615a85'}
+  - {seq: 5, filename: KR3ed002_005.yaml, hash: 'sha256:634cb658994c594f08d0661f1bf858ba97435af26b7e545829a2dd33af37c51a'}
+  - {seq: 6, filename: KR3ed002_006.yaml, hash: 'sha256:9f96e14e9f11bc8b68ce23917e9365e030be16eb4631d142cd860d5870579e73'}
+  - {seq: 7, filename: KR3ed002_007.yaml, hash: 'sha256:1ee6652d5738e378c44777671a157673f3019ada81b266da7d67dcdbe2ba77b2'}
+  - {seq: 8, filename: KR3ed002_008.yaml, hash: 'sha256:046080a47d209cb46b6e409b86af42ff2f97ba38be0d4dd97ab76240f9bedd6b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ed002_000.markers.yaml, hash: 'sha256:b75a7c5545d145a3c2c75e6b37bd06705f070cbe9779fc5f715c924aef9ae31e'}
+  - {seq: 1, role: markers, filename: assets/KR3ed002_001.markers.yaml, hash: 'sha256:a675cb3a628eeb5591bfb58273b2bd0a7e49aa580efffd8967e71232616e057d'}
+  - {seq: 2, role: markers, filename: assets/KR3ed002_002.markers.yaml, hash: 'sha256:ea6144f10980863c3d58ea06d6c3c49db6b3a7422720d67a694f76a5980087ba'}
+  - {seq: 3, role: markers, filename: assets/KR3ed002_003.markers.yaml, hash: 'sha256:eb43ce2327196f1007f36092382a2121d60cc4d363daf98342fe81a9167dfaa7'}
+  - {seq: 4, role: markers, filename: assets/KR3ed002_004.markers.yaml, hash: 'sha256:5300834c7f83e977f56092b55f1fdf5b7647c94b90be7133263795c98e8f134d'}
+  - {seq: 5, role: markers, filename: assets/KR3ed002_005.markers.yaml, hash: 'sha256:4f2d3cebe40253ed9c6e656e02de15e1568de795eff3202928739cabd0da7ae2'}
+  - {seq: 6, role: markers, filename: assets/KR3ed002_006.markers.yaml, hash: 'sha256:54c577c83ea4f93577ce60ebdefcde4be847fd974559129abc889b019e5d4cc5'}
+  - {seq: 7, role: markers, filename: assets/KR3ed002_007.markers.yaml, hash: 'sha256:4b134f85ff50aa1f791c5fefa6cb12d4a96376a257b6e5015ae254e7bab91d87'}
+  - {seq: 8, role: markers, filename: assets/KR3ed002_008.markers.yaml, hash: 'sha256:f3b4c00cb51b30b9644d7b08d602709897cca62366f80bf88a72e643dc1262ef'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ed002_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 534
+  label: 葛洪肘後備急方序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed002_jc_000-d3.h1s1
+    span:
+    - front
+    - 534
+    - 869
+  label: 葛洪肘後備急方序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed002_jc_000-d4.h1s1
+    span:
+    - front
+    - 869
+    - 2305
+  label: 華陽隱居補闕肘後百一方序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed002_jc_000-d5.h1s1
+    span:
+    - front
+    - 2305
+    - 2508
+  label: 鹿鳴山續古序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed002_jc_000-d6.h1s1
+    span:
+    - front
+    - 2508
+    - 3025
+  label: 附廣肘後方序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ed002_jc_001-d7.h1s1
+    span:
+    - body
+    - 0
+    - 8302
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ed002_jc_001-d7d2
+    span:
+    - body
+    - 2
+    - 1103
+  label: 救卒中惡死方第一
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed002_jc_001-d7d3
+    span:
+    - body
+    - 1103
+    - 1514
+  label: 救卒死屍蹶方第二
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed002_jc_001-d7d4
+    span:
+    - body
+    - 1514
+    - 2263
+  label: 救卒客忤死方第三
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed002_jc_001-d7d5
+    span:
+    - body
+    - 2263
+    - 2660
+  label: 治卒得鬼擊方第四
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed002_jc_001-d7d6
+    span:
+    - body
+    - 2660
+    - 3293
+  label: 治卒魘寐不寤方第五
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed002_jc_001-d7d7
+    span:
+    - body
+    - 3293
+    - 4236
+  label: 治卒中五屍方第六
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed002_jc_001-d7d8
+    span:
+    - body
+    - 4236
+    - 4841
+  label: 治屍注鬼注方第七
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed002_jc_001-d7d9
+    span:
+    - body
+    - 4841
+    - 6569
+  label: 治卒心痛方第八
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed002_jc_001-d7d10
+    span:
+    - body
+    - 6569
+    - 7298
+  label: 治卒腹痛方第九
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed002_jc_001-d7d11
+    span:
+    - body
+    - 7298
+    - 7719
+  label: 治心腹俱痛方第十
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed002_jc_001-d7d12
+    span:
+    - body
+    - 7719
+    - 8302
+  label: 治卒心腹煩滿方第十一
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed002_jc_002-d8.h1s1
+    span:
+    - body
+    - 0
+    - 10260
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ed002_jc_002-d8d2
+    span:
+    - body
+    - 2
+    - 2365
+  label: 治卒霍亂諸急方第十二
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed002_jc_002-d8d3
+    span:
+    - body
+    - 2365
+    - 8124
+  label: 治傷寒時氣溫病方第十三
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed002_jc_002-d8d4
+    span:
+    - body
+    - 8124
+    - 9198
+  label: 治時氣病起諸勞複方第十四
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed002_jc_002-d8d5
+    span:
+    - body
+    - 9198
+    - 10260
+  label: 治瘴氣疫癘溫毒諸方第十五
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed002_jc_003-d9.h1s1
+    span:
+    - body
+    - 0
+    - 13986
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ed002_jc_003-d9d2
+    span:
+    - body
+    - 2
+    - 1611
+  label: 治寒熱諸瘧方第十六
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed002_jc_003-d9d3
+    span:
+    - body
+    - 1611
+    - 2530
+  label: 治卒發癲狂病方第十七
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed002_jc_003-d9d4
+    span:
+    - body
+    - 2530
+    - 3315
+  label: 治卒得驚邪恍惚方第十八
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed002_jc_003-d9d5
+    span:
+    - body
+    - 3315
+    - 6952
+  label: 治中風諸急方第十九
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed002_jc_003-d9d6
+    span:
+    - body
+    - 6952
+    - 7473
+  label: 治卒風喑不得語方第二十
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed002_jc_003-d9d7
+    span:
+    - body
+    - 7473
+    - 9127
+  label: 治風毒腳弱痹滿上氣方第二十一
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed002_jc_003-d9d8
+    span:
+    - body
+    - 9127
+    - 9754
+  label: 治服散卒發動困篤方第二十二
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed002_jc_003-d9d9
+    span:
+    - body
+    - 9754
+    - 13096
+  label: 治卒上氣咳嗽方第二十三
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed002_jc_003-d9d10
+    span:
+    - body
+    - 13096
+    - 13986
+  label: 治卒身面腫滿方第二十四
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed002_jc_004-d10.h1s1
+    span:
+    - body
+    - 0
+    - 12895
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ed002_jc_004-d10d2
+    span:
+    - body
+    - 2
+    - 1712
+  label: 治卒大腹水病方第二十五
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed002_jc_004-d10d3
+    span:
+    - body
+    - 1712
+    - 2970
+  label: 治卒心腹症堅方第二十六
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed002_jc_004-d10d4
+    span:
+    - body
+    - 2970
+    - 3799
+  label: 治心腹寒冷食飲積聚結癖方第二十七
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed002_jc_004-d10d5
+    span:
+    - body
+    - 3799
+    - 5282
+  label: 治胸膈上痰癊諸方第二十八
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed002_jc_004-d10d6
+    span:
+    - body
+    - 5282
+    - 5601
+  label: 治卒患胸痹痛方第二十九
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed002_jc_004-d10d7
+    span:
+    - body
+    - 5601
+    - 7174
+  label: 治卒胃反嘔啘方第三十
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed002_jc_004-d10d8
+    span:
+    - body
+    - 7174
+    - 8408
+  label: 治卒發黃疸諸黃病第三十一
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed002_jc_004-d10d9
+    span:
+    - body
+    - 8408
+    - 9753
+  label: 治卒患腰脅痛諸方第三十二
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed002_jc_004-d10d10
+    span:
+    - body
+    - 9753
+    - 11231
+  label: 治虛損羸瘦不堪勞動方第三十三
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed002_jc_004-d10d11
+    span:
+    - body
+    - 11231
+    - 12094
+  label: 治脾胃虛弱不能飲食方第三十四
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed002_jc_004-d10d12
+    span:
+    - body
+    - 12094
+    - 12895
+  label: 治卒絕糧失食飢憊欲死方第三十五
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ed002_jc_005-d11.h1s1
+    span:
+    - body
+    - 0
+    - 10535
+  label: 卷五
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3ed002_jc_005-d11d2
+    span:
+    - body
+    - 2
+    - 5181
+  label: 治癰疽妒乳諸毒腫方第三十六
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ed002_jc_005-d11d3
+    span:
+    - body
+    - 5181
+    - 5404
+  label: 治腸癰肺癰方第三十七
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ed002_jc_005-d11d4
+    span:
+    - body
+    - 5404
+    - 7670
+  label: 治瘑癬疥漆瘡諸惡瘡方第三十九
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ed002_jc_005-d11d5
+    span:
+    - body
+    - 7670
+    - 8588
+  label: 治卒得癩皮毛變黑方第四十
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ed002_jc_005-d11d6
+    span:
+    - body
+    - 8588
+    - 9203
+  label: 治卒得蟲鼠諸瘻方第四十一
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ed002_jc_005-d11d7
+    span:
+    - body
+    - 9203
+    - 10535
+  label: 治卒陰腫痛頹卵方第四十二
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ed002_jc_006-d12.h1s1
+    span:
+    - body
+    - 0
+    - 8151
+  label: 卷六
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3ed002_jc_006-d12d2
+    span:
+    - body
+    - 2
+    - 1614
+  label: 治目赤痛闇昧刺諸病方第四十三
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ed002_jc_006-d12d3
+    span:
+    - body
+    - 1614
+    - 2532
+  label: 治卒耳聾諸病方第四十七
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ed002_jc_006-d12d4
+    span:
+    - body
+    - 2532
+    - 3042
+  label: 治耳為百蟲雜物所入方第四十八
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ed002_jc_006-d12d5
+    span:
+    - body
+    - 3042
+    - 3288
+  label: 治卒食噎不下方第四十九
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ed002_jc_006-d12d6
+    span:
+    - body
+    - 3288
+    - 3700
+  label: 治卒諸雜物鯁不下方第五十
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ed002_jc_006-d12d7
+    span:
+    - body
+    - 3700
+    - 4139
+  label: 治卒誤吞諸物及患方第五十一
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ed002_jc_006-d12d8
+    span:
+    - body
+    - 4139
+    - 8151
+  label: 治面皰發禿身臭心惛鄙醜方第五十二
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ed002_jc_007-d13.h1s1
+    span:
+    - body
+    - 0
+    - 10466
+  label: 卷七
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3ed002_jc_007-d13d2
+    span:
+    - body
+    - 2
+    - 310
+  label: 治為熊虎爪牙所傷毒痛方第五十三
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ed002_jc_007-d13d3
+    span:
+    - body
+    - 310
+    - 860
+  label: 治卒為猘犬所咬毒方第五十四
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ed002_jc_007-d13d4
+    span:
+    - body
+    - 860
+    - 1403
+  label: 治卒毒及狐溺棘所毒方第五十五
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ed002_jc_007-d13d5
+    span:
+    - body
+    - 1403
+    - 1955
+  label: 治卒青蛙蝮虺眾蛇所螫方第五十六
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ed002_jc_007-d13d6
+    span:
+    - body
+    - 1955
+    - 2290
+  label: 治蛇瘡敗蛇骨刺人入口繞身諸方第五十七
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ed002_jc_007-d13d7
+    span:
+    - body
+    - 2290
+    - 2511
+  label: 治卒入山草禁闢眾蛇藥術方第五十八
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ed002_jc_007-d13d8
+    span:
+    - body
+    - 2511
+    - 3539
+  label: 治卒蜈蚣蜘蛛所螫方第五十九
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ed002_jc_007-d13d9
+    span:
+    - body
+    - 3539
+    - 3580
+  label: 治卒蠆螫方第六十
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ed002_jc_007-d13d10
+    span:
+    - body
+    - 3580
+    - 3781
+  label: 治卒蜂所螫方第六十一
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ed002_jc_007-d13d11
+    span:
+    - body
+    - 3781
+    - 4024
+  label: 治卒蠍所螫方第六十二
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ed002_jc_007-d13d12
+    span:
+    - body
+    - 4024
+    - 5283
+  label: 治中蠱毒方第六十三
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ed002_jc_007-d13d13
+    span:
+    - body
+    - 5283
+    - 5929
+  label: 治卒中溪毒方第六十四
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ed002_jc_007-d13d14
+    span:
+    - body
+    - 5929
+    - 6458
+  label: 治卒中射工水弩毒方第六十五
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ed002_jc_007-d13d15
+    span:
+    - body
+    - 6458
+    - 6858
+  label: 治卒中沙蝨毒方第六十六
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ed002_jc_007-d13d16
+    span:
+    - body
+    - 6858
+    - 7121
+  label: 治卒服藥過劑煩悶方第六十七
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ed002_jc_007-d13d17
+    span:
+    - body
+    - 7121
+    - 8578
+  label: 治卒中諸藥毒救解方第六十八
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ed002_jc_007-d13d18
+    span:
+    - body
+    - 8578
+    - 9628
+  label: 治食中諸毒方第六十九
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ed002_jc_007-d13d19
+    span:
+    - body
+    - 9628
+    - 9968
+  label: 治防避飲食諸毒方第七十
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ed002_jc_007-d13d20
+    span:
+    - body
+    - 9968
+    - 10466
+  label: 治卒飲酒大醉諸病方第七十一
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ed002_jc_008-d14.h1s1
+    span:
+    - body
+    - 0
+    - 4183
+  label: 卷八
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3ed002_jc_008-d14d2
+    span:
+    - body
+    - 2
+    - 3458
+  label: 治百病備急丸散膏諸要方第七十二
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ed002_jc_008-d14d3
+    span:
+    - body
+    - 3458
+    - 4183
+  label: 治牛馬六畜水穀疫癘諸病方第七十三
+  type: section
+  level: 2
+hash: sha256:f48babac7599bb8a9d61a569948fa6de8b9c0985825b28c0b450208ca0acf861
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
