@@ -29,11 +29,11 @@ assets:
   - {seq: 8, filename: KR3ed002_008.yaml, hash: 'sha256:eae8d67a77cb0e7b6a8b568e612cd7659ee2990f1372fc1c55ae623b7c08c893'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR3ed002_000.markers.yaml, hash: 'sha256:9374ee1df0887e6bdba38066c6adeeb4d37cd506bb9182e2e5ab4a1f4f6f555e'}
-  - {seq: 1, role: markers, filename: assets/KR3ed002_001.markers.yaml, hash: 'sha256:c7b4ff7c27829186428b572b452c00b95c45ad6b7f87edc85e6c36f6ad669982'}
+  - {seq: 1, role: markers, filename: assets/KR3ed002_001.markers.yaml, hash: 'sha256:509dfde9b01a1fc5c7d8d639fa3b30cb8b11394787d7182e4d583d62b25d406f'}
   - {seq: 2, role: markers, filename: assets/KR3ed002_002.markers.yaml, hash: 'sha256:b20681fba4870bf25db0dbd6fe995593f73d6b744c8357b672bf4acdede13a3b'}
-  - {seq: 3, role: markers, filename: assets/KR3ed002_003.markers.yaml, hash: 'sha256:8058dcd20ccbc27832c62fb89b8fe447017af3402d99cedad9d57c783c8562e3'}
+  - {seq: 3, role: markers, filename: assets/KR3ed002_003.markers.yaml, hash: 'sha256:578e0a2d928acc2a5ef7625ae01dc337b2a128fee4ba4ec5bdee0e60775c3260'}
   - {seq: 4, role: markers, filename: assets/KR3ed002_004.markers.yaml, hash: 'sha256:70450fc2694cf19a1d14bf96c6b84f1f8ca812c1b064a3cfb690fd7ba69358d8'}
-  - {seq: 5, role: markers, filename: assets/KR3ed002_005.markers.yaml, hash: 'sha256:04c7f2cab3138b6f9c9ee3d67a61d2708890d77f6b8c29313d73f9c0054fbf1c'}
+  - {seq: 5, role: markers, filename: assets/KR3ed002_005.markers.yaml, hash: 'sha256:245e9015aea3cdebb46f735b08221a425616954b470ce90201137d21086901b8'}
   - {seq: 6, role: markers, filename: assets/KR3ed002_006.markers.yaml, hash: 'sha256:fefe5238b2facebd8936fc85e732e96bddd17d012dde970bb7b4948fe24c6b1e'}
   - {seq: 7, role: markers, filename: assets/KR3ed002_007.markers.yaml, hash: 'sha256:52c70d9cae81a40852ac781fb620f1b16515c7f4021bce9fef72d7a44fbc0aaa'}
   - {seq: 8, role: markers, filename: assets/KR3ed002_008.markers.yaml, hash: 'sha256:5b3b48ea950e600461012dc35f20e9b4c61234ef6f0e31f7cb1579f9e7fe5da6'}
@@ -858,7 +858,7 @@ table_of_contents:
   label: 治牛馬六畜水穀疫癘諸病方第七十三
   type: section
   level: 2
-hash: sha256:5e4609800bbacfeff417bbed2933b6dee0fc32a38468135dea45726aab84c35a
+hash: sha256:527b2d9b35d8011e840a0f59616dc742667e526b014efccecc7ab80d101c1da9
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
