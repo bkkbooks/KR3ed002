@@ -18,7 +18,7 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ed002_000.yaml, hash: 'sha256:9e1eae3ceea204ef13bfbc8e991ecdec473c581a717307941f6753c9acd54f14'}
+  - {seq: 0, filename: KR3ed002_000.yaml, hash: 'sha256:35c758d9571f6dc356a59cd46e8b781e09044d0845044da5c4ab072b2d47ec17'}
   - {seq: 1, filename: KR3ed002_001.yaml, hash: 'sha256:a491712850f400cc9e45eeddc76c84f4ad612b269ba7f1ebe5697e7a4a5d751e'}
   - {seq: 2, filename: KR3ed002_002.yaml, hash: 'sha256:4370eb802e7e71a87ec421d54af4d8dd59a024de32f8b8b94d3e856860ae1dd0'}
   - {seq: 3, filename: KR3ed002_003.yaml, hash: 'sha256:fbb09fbaf6cd65f46f197252f62cabeb45dbf8b333a89cec599a9b04d08da3f2'}
@@ -28,7 +28,7 @@ assets:
   - {seq: 7, filename: KR3ed002_007.yaml, hash: 'sha256:23146530a823fd95df23b0753448ed00f73551de915bca605968d7d239be4734'}
   - {seq: 8, filename: KR3ed002_008.yaml, hash: 'sha256:eae8d67a77cb0e7b6a8b568e612cd7659ee2990f1372fc1c55ae623b7c08c893'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed002_000.markers.yaml, hash: 'sha256:9374ee1df0887e6bdba38066c6adeeb4d37cd506bb9182e2e5ab4a1f4f6f555e'}
+  - {seq: 0, role: markers, filename: assets/KR3ed002_000.markers.yaml, hash: 'sha256:b2a811f1d8fe24848469c98883d0dc18dffe3d34f331bb11d951ffcee946a99e'}
   - {seq: 1, role: markers, filename: assets/KR3ed002_001.markers.yaml, hash: 'sha256:509dfde9b01a1fc5c7d8d639fa3b30cb8b11394787d7182e4d583d62b25d406f'}
   - {seq: 2, role: markers, filename: assets/KR3ed002_002.markers.yaml, hash: 'sha256:b20681fba4870bf25db0dbd6fe995593f73d6b744c8357b672bf4acdede13a3b'}
   - {seq: 3, role: markers, filename: assets/KR3ed002_003.markers.yaml, hash: 'sha256:578e0a2d928acc2a5ef7625ae01dc337b2a128fee4ba4ec5bdee0e60775c3260'}
@@ -42,7 +42,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ed002_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 534
   label: 葛洪肘後備急方序
@@ -52,7 +52,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ed002_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 534
     - 869
   label: 葛洪肘後備急方序
@@ -62,7 +62,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ed002_jc_000-d4.h1s1
     span:
-    - front
+    - body
     - 869
     - 2305
   label: 華陽隱居補闕肘後百一方序
@@ -72,7 +72,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ed002_jc_000-d5.h1s1
     span:
-    - front
+    - body
     - 2305
     - 2508
   label: 鹿鳴山續古序
@@ -82,7 +82,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ed002_jc_000-d6.h1s1
     span:
-    - front
+    - body
     - 2508
     - 3025
   label: 附廣肘後方序
@@ -858,7 +858,7 @@ table_of_contents:
   label: 治牛馬六畜水穀疫癘諸病方第七十三
   type: section
   level: 2
-hash: sha256:527b2d9b35d8011e840a0f59616dc742667e526b014efccecc7ab80d101c1da9
+hash: sha256:8cfaeb2fb67a0a2ca9dd51b11fc0d6694226282bf8f273ce4bb935e8538d4c33
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
